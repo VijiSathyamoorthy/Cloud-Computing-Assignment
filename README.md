@@ -4,18 +4,6 @@
  
  ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
 
- # INTRODUCTION 
-
-   * University Name: http://www.sjsu.edu/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
-   
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
-   
    # PROJECT IDEA
 
    * ‘Save To the Cloud’ is a full stack web application that mainly deals with storing and saving files by leveraging cloud infrastructure.
@@ -57,13 +45,10 @@ upload a new files again with the update / revision.
    
  * Resources Page : User can find links to all the technology used in this application.
  ![cloud 8](https://user-images.githubusercontent.com/31361652/31910737-580b3794-b7f3-11e7-8af5-4620fdd4bd8a.PNG)
- * Link to users Facebook, linkedin, gmail and other social media account in a click away.
- ![about](https://user-images.githubusercontent.com/31361652/31915431-4aa516fa-b803-11e7-83ed-9eb78a285173.PNG)
- 
+
  # ARCHITECTURE DIGRAM FOR THIS PROJECT
  
  ![savetothecloud](https://user-images.githubusercontent.com/31361652/31912751-c4153b82-b7f9-11e7-84a1-ac1c00bd9ba2.jpg)
-
 
 
 # PREREQUISITES :
@@ -75,7 +60,6 @@ upload a new files again with the update / revision.
 * Cloud watch alarms are set to check for healthy state of instances.
 * Lambda Function to receiver cloud watch alerts and send out notification to the user
 regarding the event.
-* Kindly refer (https://aws.amazon.com/documentation/) for more details about every configuration. 
 
 
 # LIST OF REQUIRED SOFTWARE:
@@ -97,7 +81,7 @@ DATABASE-
 
 # INSTRUCTIONS TO SET UP PROJECT LOCALLY :
 
-* Clone the above project into your local repository (Clone link :https://github.com/AnuradhaIyer/AWS-cloud-project.git) 
+* Clone the above project into your local repository (Clone link :https://github.com/VijiSathyamoorthy/Cloud-Computing-Assignmet-) 
 * Go to the folder where the project is cloned, check for package.json file where all the dependencies for the project is mentioned.
 * Install node.js in your system. Link for iinstalling- (https://nodejs.org/en/).
 * We have included "aws-sdk" for accessing S3 from amazon, so kindly add that as a dependency in package.json file.
