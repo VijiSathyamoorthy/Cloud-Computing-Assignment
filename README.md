@@ -3,19 +3,7 @@
  
  
  ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
-
- # INTRODUCTION 
-
-   * University Name: http://www.sjsu.edu/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
-   
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
-   
+  
    # PROJECT IDEA
 
    * ‘Save To the Cloud’ is a full stack web application that mainly deals with storing and saving files by leveraging cloud infrastructure.
@@ -97,7 +85,7 @@ DATABASE-
 
 # INSTRUCTIONS TO SET UP PROJECT LOCALLY :
 
-* Clone the above project into your local repository (Clone link :https://github.com/AnuradhaIyer/AWS-cloud-project.git) 
+* Clone the above project into your local repository (Clone link :https://github.com/VijiSathyamoorthy/Cloud-Computing-Assignmet) 
 * Go to the folder where the project is cloned, check for package.json file where all the dependencies for the project is mentioned.
 * Install node.js in your system. Link for iinstalling- (https://nodejs.org/en/).
 * We have included "aws-sdk" for accessing S3 from amazon, so kindly add that as a dependency in package.json file.
